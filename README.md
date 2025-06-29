@@ -103,6 +103,8 @@
         npm start
         ```
         يجب أن يفتح التطبيق في متصفحك على `http://localhost:3000`.
+      **فيديو توضيحي (Demo Video):**
+      https://drive.google.com/file/d/1dj5HWXxMXhTR4t5pBU8iZVUjL1vDiUyH/view?usp=drive_link
 
 ---
 
